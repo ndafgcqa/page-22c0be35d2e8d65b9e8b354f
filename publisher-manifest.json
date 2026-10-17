@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "b4a222a4db325630dbbcea7a",
+  "owner": "ndafgcqa",
+  "repo": "page-22c0be35d2e8d65b9e8b354f",
+  "title": "泡泡瑪特(POPMART)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "22c0be35d2e8d65b9e8b354f",
+      "a": "泡泡瑪特(POPMART)",
+      "b": "",
+      "entity": "泡泡瑪特(POPMART)",
+      "brand": "泡泡瑪特(POPMART)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "55ead94827f8935d95e2f15be0061d715951a68a3bef329eb8da71bb8f227302",
+      "content": {
+        "keyword1": "泡泡瑪特(POPMART)",
+        "keyword2": "",
+        "primary_entity": "泡泡瑪特(POPMART)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "泡泡瑪特(POPMART)致力于潮流玩具与当代艺术收藏的深度开发，带来打破寻常的灵感美学。",
+          "AI_DESCRIPTION": "泡泡瑪特(POPMART)致力于潮流玩具与当代艺术收藏的深度开发，带来打破寻常的灵感美学。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #f4f3ef;--panel-bg: #e8e6df;--primary: #2d241e;--accent: #52796f;--accent-light: #84a98c;--text-main: #3d342f;--text-muted: #6b5e54;--border-color: #d3d0c7;--card-shadow: 0 12px 32px rgba(45, 36, 30, 0.08)}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;line-height: 1.6;padding: 1.5rem}\n.page-wrapper {max-width: 1200px;margin: 0 auto}\nheader {margin-bottom: 3rem;background-color: var(--panel-bg);padding: 1.5rem;border-radius: 16px;box-shadow: var(--card-shadow)}\n.nav-inline {display: flex;gap: 1.5rem;list-style: none;font-size: 0.95rem;text-transform: uppercase;letter-spacing: 0.05em}\n.nav-inline a {color: var(--text-main);text-decoration: none;font-weight: 600;transition: color 0.2s}\n.nav-inline a:hover {color: var(--accent)}\nmain {display: flex;flex-direction: column;gap: 4rem}\n.hero {display: grid;grid-template-columns: 1fr 1fr 1fr;gap: 1.5rem;align-items: stretch}\n.hero-col {background: var(--panel-bg);padding: 2.5rem 2rem;border-radius: 20px;box-shadow: var(--card-shadow);display: flex;flex-direction: column;justify-content: space-between}\n.hero-col.main-intro {grid-column: span 2;background-color: var(--primary);color: var(--bg-color)}\n.hero-col.main-intro h1 {font-size: clamp(2.5rem, 4vw, 3.5rem);line-height: 1.1;margin-bottom: 1.5rem;letter-spacing: -0.02em}\n.hero-col.main-intro p {font-size: 1.15rem;opacity: 0.85;max-width: 45ch}\n.hero-col.quote {background-color: var(--accent);color: #fff;justify-content: center}\n.hero-col.quote blockquote {font-size: 1.25rem;font-style: italic;font-weight: 300;line-height: 1.4}\nsection {display: flex;flex-direction: column;gap: 2rem}\n.section-title {font-size: 1.8rem;font-weight: 700;letter-spacing: -0.01em;border-left: 4px solid var(--accent);padding-left: 0.75rem;color: var(--primary)}\n.plans-stack {display: flex;flex-direction: column;gap: 1.5rem}\n.plan-card {background: var(--panel-bg);border-radius: 20px;padding: 2.5rem;box-shadow: var(--card-shadow);display: flex;justify-content: space-between;align-items: center;gap: 2rem;transition: transform 0.2s ease}\n.plan-card:hover {transform: translateY(-2px)}\n.plan-card.featured {background: var(--accent);color: #fff}\n.plan-card.featured .plan-meta,\n.plan-card.featured .plan-features li {color: rgba(255, 255, 255, 0.9)}\n.plan-info h3 {font-size: 1.5rem;margin-bottom: 0.5rem}\n.plan-meta {font-size: 0.95rem;color: var(--text-muted)}\n.plan-features {list-style: none;display: grid;grid-template-columns: repeat(2, minmax(150px, 1fr));gap: 0.5rem 1.5rem;margin: 1rem 0}\n.plan-features li {font-size: 0.95rem;color: var(--text-main);position: relative;padding-left: 1.2rem}\n.plan-features li::before {content: \"•\";position: absolute;left: 0;color: var(--accent-light)}\n.plan-card.featured .plan-features li::before {color: #fff}\n.plan-pricing {text-align: right;min-width: 180px}\n.price-main {font-size: 2rem;font-weight: 800;line-height: 1.1}\n.price-annual {font-size: 0.85rem;opacity: 0.8;margin-top: 0.25rem}\n.content-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 1.5rem}\n.info-card {background: var(--panel-bg);padding: 2rem;border-radius: 20px;box-shadow: var(--card-shadow)}\n.info-card h3 {font-size: 1.25rem;margin-bottom: 0.75rem;color: var(--primary)}\n.info-card p {color: var(--text-muted);font-size: 0.95rem}\n.faq-list {display: flex;flex-direction: column;gap: 1rem}\ndetails {background: var(--panel-bg);border-radius: 16px;box-shadow: var(--card-shadow);overflow: hidden;transition: background 0.2s}\ndetails[open] {background: #e2dfd7}\nsummary {padding: 1.5rem 2rem;font-size: 1.1rem;font-weight: 600;cursor: pointer;list-style: none;display: flex;justify-content: space-between;align-items: center;color: var(--primary)}\nsummary::-webkit-details-marker {display: none}\nsummary::after {content: \"+\";font-size: 1.5rem;font-weight: 400;color: var(--accent);transition: transform 0.2s}\ndetails[open] summary::after {transform: rotate(45deg)}\n.faq-content {padding: 0 2rem 1.5rem 2rem;color: var(--text-muted);font-size: 0.95rem;line-height: 1.7}\nfooter {margin-top: 5rem;padding: 3rem 0;border-top: 1px solid var(--border-color);text-align: center;color: var(--text-muted);font-size: 0.9rem}\n@media (max-width: 900px) {\n  .hero {grid-template-columns: 1fr}\n  .hero-col.main-intro {grid-column: span 1}\n  .plan-card {flex-direction: column;align-items: flex-start}\n  .plan-pricing {text-align: left;width: 100%;display: flex;justify-content: space-between;align-items: center;border-top: 1px solid rgba(0,0,0,0.05);padding-top: 1rem}\n}\n</style><div class=\"page-wrapper\">\n  <header>\n    <nav>\n      <ul class=\"nav-inline\">\n        <li><a href=\"#overview\">品牌概览</a></li>\n        <li><a href=\"#plans\">收藏方案</a></li>\n        <li><a href=\"#experience\">美学体验</a></li>\n        <li><a href=\"#faq\">常见问题</a></li>\n      </ul>\n    </nav>\n  </header>\n\n  <main>\n    <div class=\"hero\">\n      <div class=\"hero-col main-intro\">\n        <div>\n          <h1>泡泡瑪特(POPMART) · 泡泡瑪特 (POPMART)</h1>\n          <p>以潮流玩具点亮日常生活。汇聚全球顶尖设计师灵感，打造打破常规的艺术收藏与立体美学空间。</p>\n        </div>\n      </div>\n      <div class=\"hero-col quote\">\n        <blockquote>“创造潮流，传递美好。”</blockquote>\n      </div>\n      <div class=\"hero-col\">\n        <h3>独立美学</h3>\n        <p>每一款作品都是独立视角的艺术表达，捕捉转瞬即逝的灵感共鸣。</p>\n      </div>\n    </div>\n\n    <section id=\"overview\">\n      <h2 class=\"section-title\">品牌概览</h2>\n      <div class=\"content-grid\">\n        <div class=\"info-card\">\n          <h3>设计师矩阵</h3>\n          <p>签约并深度合作全球数百位顶尖独立设计师，持续拓展潮流玩具的边界与可能性。</p>\n        </div>\n        <div class=\"info-card\">\n          <h3>工艺美学</h3>\n          <p>严苛把控涂装、材质与模具精度，还原每一个微小细节的艺术质感。</p>\n        </div>\n        <div class=\"info-card\">\n          <h3>社群共鸣</h3>\n          <p>连接全球数千万热爱收集与分享的玩家，构建纯粹、包容的潮流文化社区。</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"plans\">\n      <h2 class=\"section-title\">收藏方案</h2>\n      <div class=\"plans-stack\">\n        <div class=\"plan-card\">\n          <div class=\"plan-info\">\n            <h3>基础版</h3>\n            <div class=\"plan-meta\">面向轻度爱好者与入门收藏</div>\n            <ul class=\"plan-features\">\n              <li>每月 100GB 极速流量</li>\n              <li>支持 3 台设备同时在线</li>\n              <li>解锁基础流媒体</li>\n              <li>普通线路节点池</li>\n            </ul>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"price-main\">¥15/月</div>\n            <div class=\"price-annual\">按年付仅需 ¥150/年</div>\n          </div>\n        </div>\n\n        <div class=\"plan-card featured\">\n          <div class=\"plan-info\">\n            <h3>旗舰版</h3>\n            <div class=\"plan-meta\">深度玩家与全系列收藏优选</div>\n            <ul class=\"plan-features\">\n              <li>每月 300GB 极速流量</li>\n              <li>支持 5 台设备同时在线</li>\n              <li>全节点原生流媒体解锁</li>\n              <li>IPLC 专线游戏加速优化</li>\n              <li>7x24 优先工单支持</li>\n            </ul>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"price-main\">¥35/月</div>\n            <div class=\"price-annual\">按年付仅需 ¥350/年</div>\n          </div>\n        </div>\n\n        <div class=\"plan-card\">\n          <div class=\"plan-info\">\n            <h3>团队版</h3>\n            <div class=\"plan-meta\">资深收藏家与专业社群共享</div>\n            <ul class=\"plan-features\">\n              <li>每月 1000GB 极速流量</li>\n              <li>支持 20 台设备同时在线</li>\n              <li>VIP 专属高带宽节点</li>\n              <li>支持企业定制路由</li>\n              <li>专属客户经理服务</li>\n            </ul>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"price-main\">¥85/月</div>\n            <div class=\"price-annual\">按年付仅需 ¥850/年</div>\n          </div>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"experience\">\n      <h2 class=\"section-title\">美学体验</h2>\n      <div class=\"content-grid\">\n        <div class=\"info-card\">\n          <h3>限定发售</h3>\n          <p>不定期推出海内外艺术家联名限定款，满足每一位藏家对稀缺性的极致追求。</p>\n        </div>\n        <div class=\"info-card\">\n          <h3>沉浸空间</h3>\n          <p>线下艺术展陈与主题概念店，提供超出物质本身的立体感官沉浸体验。</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"faq\">\n      <h2 class=\"section-title\">常见问题</h2>\n      <div class=\"faq-list\">\n        <details>\n          <summary>如何获取最新设计师限定款的发售资讯？</summary>\n          <div class=\"faq-content\">\n            您可以通过官方认证的线上小程序、社群公告以及合作艺术家的社交媒体动态第一时间获取发售日历与规则。\n          </div>\n        </details>\n        <details>\n          <summary>收藏的盲盒产品如何进行日常维护与保养？</summary>\n          <div class=\"faq-content\">\n            建议将藏品放置于避光、恒温的展示柜中。日常清洁时可使用软毛刷轻轻拂去表面灰尘，避免使用化学溶剂擦拭。\n          </div>\n        </details>\n        <details>\n          <summary>不同套餐方案支持随时升级或调整吗？</summary>\n          <div class=\"faq-content\">\n            支持随时在用户中心完成方案的升级。系统将根据当前剩余价值自动计算并折算差价，操作快捷高效。\n          </div>\n        </details>\n      </div>\n    </section>\n  </main>\n\n  <footer>\n    <p>© 泡泡瑪特(POPMART) 版权所有。用灵感与热爱，构筑无限可能的潮流世界。</p>\n  </footer>\n</div>",
+          "hash": "8265156b5affa4af8b3a6fa5e520edb580824b9d9eaa14f154b1a42c380bbd4e",
+          "seo": {
+            "title": "泡泡瑪特(POPMART) - 潮流玩具与艺术收藏空间",
+            "keywords": "泡泡瑪特, POPMART, 潮流玩具, 盲盒, 艺术收藏, 设计师玩具",
+            "description": "泡泡瑪特(POPMART)致力于潮流玩具与当代艺术收藏的深度开发，带来打破寻常的灵感美学。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "3938",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qiandad.cn",
+    "host": "p-c5a1606e3f.qiandad.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e0e4ec68d6c43517064d20a1026a7faa3c162241b772154083455b1ab662daca",
+    "sitemap.xml": "a2c41bd2739abd04b7af84b8c9fa77ffca46cb11fa61af2335867e8671c05960",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0216e507ce957803e1886dcb29b808d538fa7970430135c3ff5fc73b5b6a746b",
+    "robots.txt": "6b2b6228c8276bd00cfcacc10c590e0d40fcf9893b4b02d3b57f23a328ed93d8",
+    "94faae095cd47b27e8b13bca0fdaf15e.txt": "db2377a04b54af4f561e52665c81bd5b7564d4cf959737d507be6de52ca69f23"
+  },
+  "revision": "8240c1d0ac82e0413f4f13faa465082e3a5f82613edee2426bdddc8b356f91a7"
+}
